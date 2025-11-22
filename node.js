@@ -1,1 +1,2 @@
-for node js we use build tools as || npm so dependencies files should be (package.json) files
+for node js projects  we use ||build tools as npm package
+  so dependencies files should be (package.json) files
